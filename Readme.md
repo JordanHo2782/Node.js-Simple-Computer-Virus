@@ -1,7 +1,7 @@
 # Node.js Computer Virus
 
 ## Danger
-Running the Virus will permanently modify all files in the Virus directory.
+Running the Virus will permanently modify all files in the Virus directory.  
 Running the Virus may damage all of your files and your computer 
 
 ## Dependency
